@@ -1,0 +1,150 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514e;
+}
+
+h1 {
+    color: #66bfbf;
+    margin-top: 80px;
+    font-family: 'Sacramento', serif;
+    font-size: 90px;
+}
+
+h2 {
+    color: #66bfbf;
+    font-family: 'Montserrat', serif;
+    font-size: 30px;
+}
+
+h3 {
+    color: #11999e;
+    font-family: 'Montserrat', serif;
+    font-size: 20px;
+}
+
+a {
+    color: #11999e;
+    font-family: 'Montserrat' serif;
+    margin: 10px 10px 10px;
+    padding: 15px 10px;
+}
+
+a:hover {
+    color: white
+}
+
+a:after {
+    color: #40514e;
+}
+
+.skill-row {
+    width: 60%;
+    margin: 2% auto;
+    line-height: 2;
+    text-align: right;
+}
+
+.top_div {
+    background-color: #e4f9f5;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    /* width: 100%; */
+    padding: 20px;
+    padding-top: 100px;
+}
+
+
+.middle-div {
+    margin: 80px 0;
+    text-align: center;
+}
+
+hr {
+    width: 8%;
+    border-width: 5px;
+    text-align: center;
+    border-style: dotted none none;
+    margin: 40px auto;
+}
+
+.bot_cloud {
+    position: absolute;
+    top: 270px;
+    left: 150px;
+    width: 12%;
+}
+
+.top_cloud {
+    position: absolute;
+    right: 170px;
+    top: 70px;
+    width: 16%;
+
+}
+
+.skill-img {
+    width: 20%;
+    padding-top: 8%;
+    float: left;
+    padding-right: 15px;
+}
+
+
+/* .skill-img1 {
+    width: 25%;
+    padding-top: 8%;
+    float: left;
+    display: block;
+    padding-right: 15px;
+} */
+
+.bottom-div {
+    background-color: #66bfbf;
+    margin: 0;
+    padding-top: 4%;
+    padding-bottom: 3%;
+}
+
+.BUTTON_TVS {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   height: 5px;
+   line-height: 10px;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 180px;
+   font-size: 22px;
+   font-weight: 100;
+   padding: 25px;
+   background-color: #3D94F6;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_TVS:hover {
+   background: #1E62D0;
+   border: solid #0059A0 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   text-decoration: none;
+}
+              
+.profile{
+    /* position: absolute;
+    left: 10% */
+    width: 70%;
+    text-align: center;
+    margin-left:15%;
+}
+
+.skills_l{
+    
+}
